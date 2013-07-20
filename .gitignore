@@ -1,0 +1,5 @@
+*.o
+upload
+moc*
+Makefile
+
