@@ -30,6 +30,9 @@ private:
   QNetworkAccessManager * m_nam;
   QFile * m_file;
 
+  int m_offset;
+  int m_length;
+
 };
 
 #endif
